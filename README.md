@@ -4,7 +4,8 @@ An interactive Excel dashboard to analyze sales performance across products, yea
 
 ## Dashboard Preview
 
-![Sales Dashboard]![Screenshot 2025-04-10 152239](https://github.com/user-attachments/assets/9d50d977-e203-415d-8c88-ae97e4e199ae)
+[Sales Dashboard]![Screenshot 2025-04-10 165128](https://github.com/user-attachments/assets/5c836926-a76b-4358-9617-e1fddc0fb714)
+
 
 
 ## Key Metrics
